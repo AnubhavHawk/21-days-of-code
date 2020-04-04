@@ -1,3 +1,4 @@
+// https://codeforces.com/contest/1332/problem/A
 #include<iostream>
 #include<cmath>
 using namespace std;
